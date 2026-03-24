@@ -17,7 +17,7 @@ if [ -z "$VERSION" ]; then
   exit 1
 fi
 
-DMG_NAME="Speakaway-${VERSION}.dmg"
+DMG_NAME="Releases/Speakaway-${VERSION}.dmg"
 
 echo "🔨 Building $DMG_NAME ..."
 
