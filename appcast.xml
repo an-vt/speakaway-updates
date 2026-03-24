@@ -33,5 +33,17 @@
                 sparkle:edSignature="I8I2+OrtY6oAkS5FKYnvNpnoazGKBmbCKg3fT13f9AcOw6HwSXPV2G39hqpyJBknRXr/uATP6IkCnwUjAOksBA=="
             />
         </item>
+        <item>
+            <title>Version 1.0.0-beta4</title>
+            <pubDate>Tue, 24 Mar 2026 15:43:48 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/an-vt/speakaway-updates/releases/download/v1.0.0-beta4/Speakaway-1.0.0-beta4.dmg"
+                sparkle:edSignature="io5Xt+6CTGK53dB+IxKVlguz+GfeADd/VuyvHKTmkxGENssyLqNABHU1GZ4QWVKqb+5HdmzVyd5cPLIYV1TxBQ=="
+                length="29459047"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
