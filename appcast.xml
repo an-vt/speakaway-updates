@@ -81,5 +81,17 @@
                 length="28229236"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version v1.0.0-beta8</title>
+            <pubDate>Wed, 01 Apr 2026 15:26:09 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>v1.0.0-beta8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/an-vt/speakaway-updates/releases/download/vv1.0.0-beta8/Speakaway-v1.0.0-beta8.dmg"
+                sparkle:edSignature="ANR3yff3DyCTDrvPF4L4BVQSXPpa2kTEHP42CRAwV/8dQzIsfel7Vu3qFB5vrzt5PttxpYHP9GUkg/fl5yySBQ=="
+                length="28230527"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
