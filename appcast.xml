@@ -166,5 +166,18 @@
                 length="39278101"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 1.0.0-beta16</title>
+            <pubDate>Fri, 15 May 2026 17:15:44 +0000</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p><b>Changes:</b></p><p>Fixed update check incorrectly offering older beta version</p>]]></description>
+            <enclosure
+                url="https://github.com/an-vt/speakaway-updates/releases/download/v1.0.0-beta16/Speakaway-1.0.0-beta16.dmg"
+                sparkle:edSignature="ovDqx29pVaJVScJ74tdbhP+nSrVmanuSZvf15mHwsODyWnrdEJsELzB5mxX0mVlGL60z151s2aIYq1vgrf6aAA=="
+                length="39277864"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
