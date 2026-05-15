@@ -154,28 +154,16 @@
                 type="application/octet-stream"/>
         </item>
         <item>
-            <title>Version v1.0.0-beta14</title>
-            <pubDate>Fri, 15 May 2026 09:14:12 +0000</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>v1.0.0-beta14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure
-                url="https://github.com/an-vt/speakaway-updates/releases/download/vv1.0.0-beta14/Speakaway-v1.0.0-beta14.dmg"
-                sparkle:edSignature="DfgHOpmP/lDHPW9Vy2ILMWjXsWxb5plxPb7i3AuqXlKas2EUiFDVJbeKd/EOTYw12Jw4yo6+Wt5YJxIsP5QiDQ=="
-                length="39223252"
-                type="application/octet-stream"/>
-        </item>
-        <item>
             <title>Version 1.0.0-beta15</title>
-            <pubDate>Fri, 15 May 2026 11:59:37 +0000</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <pubDate>Fri, 15 May 2026 17:07:16 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.0.0-beta15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Improve UI dmg install, UI check for update]]></description>
+            <description><![CDATA[<p><b>Changes:</b></p><p>Fixed update check incorrectly offering older beta version</p>]]></description>
             <enclosure
                 url="https://github.com/an-vt/speakaway-updates/releases/download/v1.0.0-beta15/Speakaway-1.0.0-beta15.dmg"
-                sparkle:edSignature="oxjgrRt2pvvDBNdxuvpVQJE2rDb/n1SpJcd6zF0K3SGckEqj7ExnBJT+KpJ14OSz2KZ2uQcmoPOKGolcx9oiDw=="
-                length="39278159"
+                sparkle:edSignature="nrS6Kc1ounQyqz5FkkpF1NX14mPFPkPMUSukVjs9in8WDi8m5ozohRIuaw/Lh223mnUCjpf8m1IO2eoUbNrgCw=="
+                length="39278101"
                 type="application/octet-stream"/>
         </item>
     </channel>
