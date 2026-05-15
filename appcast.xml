@@ -153,5 +153,17 @@
                 length="39223231"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version v1.0.0-beta14</title>
+            <pubDate>Fri, 15 May 2026 09:14:12 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>v1.0.0-beta14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/an-vt/speakaway-updates/releases/download/vv1.0.0-beta14/Speakaway-v1.0.0-beta14.dmg"
+                sparkle:edSignature="DfgHOpmP/lDHPW9Vy2ILMWjXsWxb5plxPb7i3AuqXlKas2EUiFDVJbeKd/EOTYw12Jw4yo6+Wt5YJxIsP5QiDQ=="
+                length="39223252"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
