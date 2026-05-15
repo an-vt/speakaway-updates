@@ -24,12 +24,13 @@ echo "🔨 Building $DMG_NAME ..."
 create-dmg \
   --volname "Speakaway" \
   --volicon "Speakaway.app/Contents/Resources/AppIcon.icns" \
+  --background "dmg-background.png" \
   --window-pos 200 120 \
-  --window-size 560 340 \
+  --window-size 660 400 \
   --icon-size 120 \
-  --icon "Speakaway.app" 140 160 \
+  --icon "Speakaway.app" 200 240 \
   --hide-extension "Speakaway.app" \
-  --app-drop-link 420 160 \
+  --app-drop-link 460 240 \
   "$DMG_NAME" \
   "Speakaway.app"
 
