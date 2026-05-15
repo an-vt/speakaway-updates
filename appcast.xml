@@ -179,5 +179,18 @@
                 length="39277864"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 1.0.0-beta17</title>
+            <pubDate>Fri, 15 May 2026 17:32:39 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p><b>Changes:</b></p><p>Change dmg background installer</p>]]></description>
+            <enclosure
+                url="https://github.com/an-vt/speakaway-updates/releases/download/v1.0.0-beta17/Speakaway-1.0.0-beta17.dmg"
+                sparkle:edSignature="kCcqVyVA55qTs6KrvyBWZAtiyphfTDfXw/wjgmylLp6Rc5nuXK43X8WwmXnWhZToiJ2Rvvog3s+cuhH4ofEgCg=="
+                length="39271432"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
