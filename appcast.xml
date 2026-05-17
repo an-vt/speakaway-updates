@@ -192,5 +192,18 @@
                 length="39271432"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 1.0.0-beta18</title>
+            <pubDate>Sun, 17 May 2026 05:56:57 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0.0-beta18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p><b>Changes:</b></p><p>Show Apple Speech Analyzer for macos lower 26</p>]]></description>
+            <enclosure
+                url="https://github.com/an-vt/speakaway-updates/releases/download/v1.0.0-beta18/Speakaway-1.0.0-beta18.dmg"
+                sparkle:edSignature="Aq0VP2+X8C1rIqd5Z9R7FmjI0WnJu6MZPf4T5lqePhsI/UOEK05XS0DiuZz+IoGV/JciYdtOsu9ZFNUs7JiXDg=="
+                length="39273754"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
